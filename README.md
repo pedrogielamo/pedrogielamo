@@ -25,8 +25,8 @@ Desenvolvedor apaixonado por criar soluções limpas, eficientes e focadas na ex
 ### 📫 Conexões
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.m.lima6@edu.senai.br)
-[![Portfólio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://lucas-maciel.vercel.app/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.gielamo@edu.senai.br)
+
 
 ---
 
