@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas! 👋
+# Olá, eu sou o Pedro! 👋
 
 Desenvolvedor apaixonado por criar soluções limpas, eficientes e focadas na experiência do usuário. 
 
