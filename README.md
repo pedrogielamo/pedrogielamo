@@ -22,10 +22,10 @@ Desenvolvedor apaixonado por criar soluções limpas, eficientes e focadas na ex
 
 ---
 
-### 📫 Conexões
+## 📫 Conexões
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.gielamo@edu.senai.br)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/p.gielamo)
 
 ---
 
