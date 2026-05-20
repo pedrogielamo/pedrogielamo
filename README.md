@@ -6,9 +6,9 @@ Desenvolvedor apaixonado por criar soluções limpas, eficientes e focadas na ex
 
 ### 🚀 Sobre mim
 
-- 💻 Atualmente focado em aprimorar minhas habilidades em **React & Node.js**.
+- 💻 Atualmente focado em aprimorar minhas habilidades em & Node.js**.
 - 🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI**.
-- 🌱 Sempre aprendendo algo novo, no momento explorando **C++**.
+- 🌱 Sempre aprendendo algo novo, no momento explorando **C++, SQL**.
 
 ---
 
